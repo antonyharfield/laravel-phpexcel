@@ -1,5 +1,5 @@
 {
-    "name": "rozklad/laravel-phpexcel",
+    "name": "antonyharfield/laravel-phpexcel",
     "description": "PHPOffice PHPExcel wrapper",
     "keywords": ["laravel", "excel", "phpexcel", "xls", "xlsx"],
     "authors": [
