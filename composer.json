@@ -1,0 +1,22 @@
+{
+    "name": "rozklad/laravel-phpexcel",
+    "description": "PHPOffice PHPExcel wrapper",
+    "keywords": ["laravel", "excel", "phpexcel", "xls", "xlsx"],
+    "authors": [
+        {
+            "name": "rozklad",
+            "email": "jan.rozklad@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.x",
+        "phpoffice/phpexcel": "1.7.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rozklad\\PHPExcel\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
